@@ -2,6 +2,10 @@
 
 [WIP]
 
+## Overview
+
+This is the code in [this](https://youtu.be/Tt_Ho0LPVvY) video on Youtube by Siraj Raval on Neural Arithmetic Logic Units. Credits for this code go to [kevinzakka](https://github.com/kevinzakka/NALU-pytorch). 
+
 This is a PyTorch implementation of [Neural Arithmetic Logic Units](https://arxiv.org/abs/1808.00508) by *Andrew Trask, Felix Hill, Scott Reed, Jack Rae, Chris Dyer and Phil Blunsom*.
 
 <p align="center">
